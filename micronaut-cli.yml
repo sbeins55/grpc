@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: com.sbeins
+testFramework: kotest
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, gradle, grpc, jackson-databind, java, java-application, kotest, kotlin-build, logback, micronaut-build, readme, shade, yaml]
